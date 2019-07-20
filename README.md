@@ -1,2 +1,2 @@
 # TopDownShooter
-A TopDownShooter game I made with Java including sound and multiple levels and final boss stage
+A Simple TopDownShooter game made using Java, utilizing object-oriented prinicles. Includes multiple levels, sound and final boss stage.
